@@ -84,6 +84,7 @@
 
 - [BRD — Tài liệu yêu cầu nghiệp vụ](docs/BRD.md): mục tiêu, phạm vi, tác nhân, quy tắc nghiệp vụ và User Story.
 - [SRS — Đặc tả yêu cầu phần mềm](docs/SRS.md): yêu cầu chức năng, phi chức năng, dữ liệu, luồng sử dụng và tiêu chí nghiệm thu.
+- [Đặc tả Use Case — Vinmark](docs/USE_CASE.md): 27 đặc tả nghiệp vụ quan trọng theo sơ đồ use case và ERD, kèm luồng chính, ngoại lệ và quy tắc nghiệp vụ.
 - [User Story — Vinmark](docs/USER_STORY.md): 24 câu chuyện người dùng cho khách hàng, nhân viên và quản trị viên, kèm tiêu chí chấp nhận.
 
 ## HƯỚNG DẪN SỬ DỤNG SẢN PHẨM

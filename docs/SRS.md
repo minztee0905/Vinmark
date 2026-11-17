@@ -171,6 +171,8 @@ Tiêu chí ở mỗi FR là điều kiện kiểm thử cần đạt. Nơi có k
 
 ## 5. Đặc tả các luồng chính
 
+Đặc tả chi tiết theo bốn sơ đồ use case và hai ERD của nhóm được lưu tại [Đặc tả Use Case](USE_CASE.md), gồm luồng chính, luồng thay thế/ngoại lệ, quy tắc nghiệp vụ và bảng đối chiếu với các mã UC/FR dưới đây.
+
 ### UC-01 — Đăng ký, kích hoạt và đăng nhập
 
 - **Tác nhân:** khách vãng lai. **Liên quan:** FR-01–FR-04.
