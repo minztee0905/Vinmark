@@ -40,9 +40,6 @@
 | 3 | 23521646 | Phan Đức Trí |
 | 4 | 23521698 | Đỗ Xuân Tú |
 
-## SEMINAR
-
-Nội dung seminar sẽ được cập nhật sau.
 
 ## ĐỒ ÁN MÔN HỌC
 
