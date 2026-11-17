@@ -21,6 +21,7 @@
 - [Thành viên nhóm](#thành-viên-nhóm)
 - [Seminar](#seminar)
 - [Đồ án môn học](#đồ-án-môn-học)
+- [Tài liệu dự án](#tài-liệu-dự-án)
 - [Hướng dẫn sử dụng sản phẩm](#hướng-dẫn-sử-dụng-sản-phẩm)
 
 ## GIỚI THIỆU MÔN HỌC
@@ -78,6 +79,12 @@
 | Cơ sở dữ liệu | MySQL |
 | Giao diện | Laravel Blade, Bootstrap, jQuery |
 | Công cụ xây dựng tài nguyên | Vite |
+
+## TÀI LIỆU DỰ ÁN
+
+- [BRD — Tài liệu yêu cầu nghiệp vụ](docs/BRD.md): mục tiêu, phạm vi, tác nhân, quy tắc nghiệp vụ và User Story.
+- [SRS — Đặc tả yêu cầu phần mềm](docs/SRS.md): yêu cầu chức năng, phi chức năng, dữ liệu, luồng sử dụng và tiêu chí nghiệm thu.
+- [User Story — Vinmark](docs/USER_STORY.md): 24 câu chuyện người dùng cho khách hàng, nhân viên và quản trị viên, kèm tiêu chí chấp nhận.
 
 ## HƯỚNG DẪN SỬ DỤNG SẢN PHẨM
 
