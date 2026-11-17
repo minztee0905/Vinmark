@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://www.uit.edu.vn/">
+  <img src="docs/images/logo-uit.png" alt="Logo Trường Đại học Công nghệ Thông tin – UIT" width="180">
+</a>
+
 **ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH**
 
 **TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN**
