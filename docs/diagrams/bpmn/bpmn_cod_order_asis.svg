@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2240" height="2400" viewBox="0 0 2240 2400">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#34465a"/></marker><marker id="message" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="8" markerHeight="8" orient="auto"><path d="M1 1L11 6L1 11" fill="white" stroke="#64748b" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;fill:#172b4d;font-size:16px}.title{font-size:24px;font-weight:700}.label{font-size:14px;paint-order:stroke;stroke:white;stroke-width:5px;stroke-linejoin:round}.id{font-size:11px;fill:#64748b}.line{fill:none;stroke:#34465a;stroke-width:1.7;marker-end:url(#arrow)}</style>
+<rect width="100%" height="100%" fill="white"/>
+<g transform="translate(0,0)">
+<text x="1120.0" y="35.0" text-anchor="middle" dominant-baseline="middle" class="title">ĐẶT HÀNG COD • AS-IS</text>
+<text x="1120.0" y="65.0" text-anchor="middle" dominant-baseline="middle" class="label">GET checkout: guard web + có địa chỉ mặc định. POST: qua web/CSRF. Chữ + mở chi tiết ở panel dưới.</text>
+<rect x="30" y="90" width="2180" height="310" rx="0" fill="#f0f7ff" stroke="#64748b" stroke-width="1.5"/>
+<text transform="translate(50,245.0) rotate(-90)" text-anchor="middle">Khách hàng / trình duyệt</text>
+<rect x="30" y="440" width="2180" height="1010" rx="0" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+<text transform="translate(50,945.0) rotate(-90)" text-anchor="middle">Vinmark</text>
+<rect x="65" y="440" width="2145" height="440" rx="0" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+<text transform="translate(84,660.0) rotate(-90)" text-anchor="middle">Checkout GET</text>
+<rect x="65" y="880" width="2145" height="570" rx="0" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+<text transform="translate(84,1165.0) rotate(-90)" text-anchor="middle">Đặt hàng POST</text>
+<polyline points="136,198.0 200,198.0" class="line"/>
+<polyline points="410,198.0 520,198.0" class="line"/>
+<polyline points="730,198.0 800,198.0" class="line"/>
+<polyline points="848,198.0 1000,198.0" class="line"/>
+<polyline points="1270,198.0 1430,198.0" class="line"/>
+<polyline points="1640,198.0 1780,198.0" class="line"/>
+<polyline points="824,222 824,320" class="line"/>
+<polyline points="146,558.0 260,558.0" class="line"/>
+<polyline points="308,558.0 410,558.0" class="line"/>
+<polyline points="670,558.0 760,558.0" class="line"/>
+<polyline points="808,558.0 930,558.0" class="line"/>
+<polyline points="1230,558.0 1340,558.0" class="line"/>
+<polyline points="284,582 284,730" class="line"/>
+<polyline points="460,773.0 510,773.0" class="line"/>
+<polyline points="784,582 784,730" class="line"/>
+<polyline points="990,773.0 1050,773.0" class="line"/>
+<polyline points="146,1053.0 230,1053.0" class="line"/>
+<polyline points="460,1053.0 530,1053.0" class="line"/>
+<polyline points="578,1053.0 670,1053.0" class="line"/>
+<polyline points="890,1053.0 960,1053.0" class="line"/>
+<polyline points="1008,1053.0 1100,1053.0" class="line"/>
+<polyline points="1320,1053.0 1344,1053.0 1344,1062.5 1420,1062.5" class="line"/>
+<polyline points="1680,1062.5 1704,1062.5 1704,1053.0 1770,1053.0" class="line"/>
+<polyline points="554,1077 554,1230" class="line"/>
+<polyline points="630,1273.0 680,1273.0" class="line"/>
+<polyline points="984,1077 984,1230" class="line"/>
+<polyline points="1080,1273.0 1150,1273.0" class="line"/>
+<polyline points="1648,1131 1648,1230" class="line"/>
+<polyline points="1720,1280.0 1800,1278.0" class="line"/>
+<polyline points="305.0,241 305.0,259 128.0,259 128.0,540" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="305.0" cy="241" r="4" fill="white" stroke="#64748b"/>
+<polyline points="1080.0,515 1080.0,259 625.0,259 625.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="1080.0" cy="515" r="4" fill="white" stroke="#64748b"/>
+<polyline points="1135.0,241 1135.0,259 387.0,259 387.0,715 128.0,715 128.0,1035" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="1135.0" cy="241" r="4" fill="white" stroke="#64748b"/>
+<polyline points="1550.0,1010 1550.0,259 1535.0,259 1535.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="1550.0" cy="1010" r="4" fill="white" stroke="#64748b"/>
+<polyline points="335.0,730 335.0,712 395,712 395,259 625.0,259 625.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="335.0" cy="730" r="4" fill="white" stroke="#64748b"/>
+<polyline points="865.0,730 865.0,712 887.0,712 887.0,424 625.0,424 625.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="865.0" cy="730" r="4" fill="white" stroke="#64748b"/>
+<polyline points="510.0,1230 510.0,1212 1405,1212 1405,644 1535.0,644 1535.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="510.0" cy="1230" r="4" fill="white" stroke="#64748b"/>
+<polyline points="965.0,1230 965.0,1212 1405,1212 1405,644 1535.0,644 1535.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="965.0" cy="1230" r="4" fill="white" stroke="#64748b"/>
+<polyline points="1570.0,1230 1570.0,1212 1405,1212 1405,644 1535.0,644 1535.0,241" class="line" style="stroke-dasharray:7 5;marker-end:url(#message)"/>
+<circle cx="1570.0" cy="1230" r="4" fill="white" stroke="#64748b"/>
+<circle cx="118.0" cy="198.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<text x="118.0" y="170.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Start</text>
+<rect x="200" y="155" width="210" height="86" rx="10" fill="#edf9f1" stroke="#41688e" stroke-width="1.5"/>
+<text x="305.0" y="198.0" text-anchor="middle" dominant-baseline="middle" class="">Mở trang checkout</text>
+<text x="234" y="167.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Open</text>
+<circle cx="213" cy="177" r="4" fill="none" stroke="#41688e"/><path d="M207 190v-4q6-8 12 0v4" fill="none" stroke="#41688e"/>
+<rect x="520" y="155" width="210" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="625.0" y="198.0" text-anchor="middle" dominant-baseline="middle" class="">Nhận trang hoặc redirect</text>
+<text x="554" y="167.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Page</text>
+<path d="M824.0 174L848 198.0L824.0 222L800 198.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="824.0" y="198.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="824.0" y="136.0" text-anchor="middle" dominant-baseline="middle" class="label">Nhận được checkout?</text>
+<text x="824.0" y="164.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Checkout</text>
+<rect x="1000" y="155" width="270" height="86" rx="10" fill="#edf9f1" stroke="#41688e" stroke-width="1.5"/>
+<text x="1135.0" y="187.5" text-anchor="middle" dominant-baseline="middle" class="">Chọn COD và gửi form</text>
+<text x="1135.0" y="208.5" text-anchor="middle" dominant-baseline="middle" class="">Gửi hidden address_id mặc định</text>
+<text x="1034" y="167.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Submit</text>
+<circle cx="1013" cy="177" r="4" fill="none" stroke="#41688e"/><path d="M1007 190v-4q6-8 12 0v4" fill="none" stroke="#41688e"/>
+<rect x="1430" y="155" width="210" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1535.0" y="198.0" text-anchor="middle" dominant-baseline="middle" class="">Nhận kết quả đặt COD</text>
+<text x="1464" y="167.0" text-anchor="middle" dominant-baseline="middle" class="id">C_Result</text>
+<circle cx="1798.0" cy="198.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1798.0" y="247.0" text-anchor="middle" dominant-baseline="middle" class="label">Kết thúc lần thao tác</text>
+<text x="1798.0" y="170.0" text-anchor="middle" dominant-baseline="middle" class="id">C_End</text>
+<circle cx="823.0" cy="338.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="823.0" y="387.0" text-anchor="middle" dominant-baseline="middle" class="label">Chuyển login / account</text>
+<text x="823.0" y="310.0" text-anchor="middle" dominant-baseline="middle" class="id">C_NoPage</text>
+<circle cx="128.0" cy="558.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<path d="M119.0 552.0h18v12h-18z m0 0l9 7 9-7" fill="none" stroke="#34465a"/>
+<text x="128.0" y="607.0" text-anchor="middle" dominant-baseline="middle" class="label">GET /checkout</text>
+<text x="128.0" y="530.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Start</text>
+<path d="M284.0 534L308 558.0L284.0 582L260 558.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="284.0" y="558.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="284.0" y="496.0" text-anchor="middle" dominant-baseline="middle" class="label">Guard web có phiên?</text>
+<text x="284.0" y="524.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Auth</text>
+<rect x="410" y="515" width="260" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="540.0" y="547.5" text-anchor="middle" dominant-baseline="middle" class="">Nạp địa chỉ của Auth user</text>
+<text x="540.0" y="568.5" text-anchor="middle" dominant-baseline="middle" class="">Tìm địa chỉ default=true</text>
+<text x="444" y="527.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Address</text>
+<path d="M784.0 534L808 558.0L784.0 582L760 558.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="784.0" y="558.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="784.0" y="496.0" text-anchor="middle" dominant-baseline="middle" class="label">Có địa chỉ mặc định?</text>
+<text x="784.0" y="524.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Default</text>
+<rect x="930" y="515" width="300" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1080.0" y="547.5" text-anchor="middle" dominant-baseline="middle" class="">Nạp giỏ; tính Σ(lượng × giá)</text>
+<text x="1080.0" y="568.5" text-anchor="middle" dominant-baseline="middle" class="">Render tổng + 25.000đ</text>
+<text x="964" y="527.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Render</text>
+<circle cx="1358.0" cy="558.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1358.0" y="607.0" text-anchor="middle" dominant-baseline="middle" class="label">Trả trang checkout</text>
+<text x="1358.0" y="530.0" text-anchor="middle" dominant-baseline="middle" class="id">G_End</text>
+<rect x="210" y="730" width="250" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="335.0" y="762.5" text-anchor="middle" dominant-baseline="middle" class="">Báo yêu cầu đăng nhập</text>
+<text x="335.0" y="783.5" text-anchor="middle" dominant-baseline="middle" class="">Redirect /login</text>
+<text x="244" y="742.0" text-anchor="middle" dominant-baseline="middle" class="id">G_Login</text>
+<circle cx="528.0" cy="773.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="528.0" y="822.0" text-anchor="middle" dominant-baseline="middle" class="label">Dừng GET checkout</text>
+<text x="528.0" y="745.0" text-anchor="middle" dominant-baseline="middle" class="id">G_LoginEnd</text>
+<rect x="740" y="730" width="250" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="865.0" y="762.5" text-anchor="middle" dominant-baseline="middle" class="">Báo thêm địa chỉ</text>
+<text x="865.0" y="783.5" text-anchor="middle" dominant-baseline="middle" class="">Redirect /account</text>
+<text x="774" y="742.0" text-anchor="middle" dominant-baseline="middle" class="id">G_NoAddress</text>
+<circle cx="1068.0" cy="773.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1068.0" y="822.0" text-anchor="middle" dominant-baseline="middle" class="label">Dừng GET checkout</text>
+<text x="1068.0" y="745.0" text-anchor="middle" dominant-baseline="middle" class="id">G_NoAddressEnd</text>
+<circle cx="128.0" cy="1053.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<path d="M119.0 1047.0h18v12h-18z m0 0l9 7 9-7" fill="none" stroke="#34465a"/>
+<text x="128.0" y="1102.0" text-anchor="middle" dominant-baseline="middle" class="label">POST qua web + CSRF</text>
+<text x="128.0" y="1025.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Post</text>
+<rect x="230" y="1010" width="230" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="345.0" y="1042.5" text-anchor="middle" dominant-baseline="middle" class="">Kiểm tra dữ liệu request</text>
+<text x="345.0" y="1063.5" text-anchor="middle" dominant-baseline="middle" class="">Kiểm tra address tồn tại</text>
+<text x="264" y="1022.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Validate</text>
+<path d="M554.0 1029L578 1053.0L554.0 1077L530 1053.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="554.0" y="1053.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="554.0" y="991.0" text-anchor="middle" dominant-baseline="middle" class="label">Dữ liệu hợp lệ?</text>
+<text x="554.0" y="1019.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Valid</text>
+<rect x="670" y="1010" width="220" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="780.0" y="1053.0" text-anchor="middle" dominant-baseline="middle" class="">Nạp giỏ theo Auth user</text>
+<text x="704" y="1022.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Cart</text>
+<path d="M984.0 1029L1008 1053.0L984.0 1077L960 1053.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="984.0" y="1053.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="984.0" y="991.0" text-anchor="middle" dominant-baseline="middle" class="label">Giỏ rỗng?</text>
+<text x="984.0" y="1019.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Empty</text>
+<rect x="1100" y="1010" width="220" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1210.0" y="1053.0" text-anchor="middle" dominant-baseline="middle" class="">Bắt đầu DB transaction</text>
+<text x="1134" y="1022.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Begin</text>
+<rect x="1420" y="1010" width="260" height="105" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1550.0" y="1052.0" text-anchor="middle" dominant-baseline="middle" class="">Ghi đơn trong khối try</text>
+<text x="1550.0" y="1073.0" text-anchor="middle" dominant-baseline="middle" class="">Xem panel chi tiết</text>
+<text x="1454" y="1022.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Try</text>
+<rect x="1543.0" y="1096" width="14" height="14" rx="0" fill="white" stroke="#64748b" stroke-width="1.5"/>
+<text x="1550.0" y="1103.0" text-anchor="middle" dominant-baseline="middle" class="">+</text>
+<circle cx="1788.0" cy="1053.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1788.0" y="1102.0" text-anchor="middle" dominant-baseline="middle" class="label">Kết thúc request</text>
+<text x="1788.0" y="1025.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Done</text>
+<circle cx="1648.0" cy="1113.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<circle cx="1648.0" cy="1113.0" r="12.0" fill="none" stroke="#34465a"/>
+<text x="1648.0" y="1113.0" text-anchor="middle" dominant-baseline="middle" class="">ϟ</text>
+<text x="1648.0" y="1085.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Caught</text>
+<rect x="390" y="1230" width="240" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="510.0" y="1262.5" text-anchor="middle" dominant-baseline="middle" class="">Trả lỗi validation</text>
+<text x="510.0" y="1283.5" text-anchor="middle" dominant-baseline="middle" class="">qua Laravel framework</text>
+<text x="424" y="1242.0" text-anchor="middle" dominant-baseline="middle" class="id">S_ValidationError</text>
+<circle cx="698.0" cy="1273.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="698.0" y="1322.0" text-anchor="middle" dominant-baseline="middle" class="label">Dừng trước transaction</text>
+<text x="698.0" y="1245.0" text-anchor="middle" dominant-baseline="middle" class="id">S_InvalidEnd</text>
+<rect x="850" y="1230" width="230" height="86" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="965.0" y="1262.5" text-anchor="middle" dominant-baseline="middle" class="">Báo giỏ trống</text>
+<text x="965.0" y="1283.5" text-anchor="middle" dominant-baseline="middle" class="">Redirect /cart</text>
+<text x="884" y="1242.0" text-anchor="middle" dominant-baseline="middle" class="id">S_EmptyResponse</text>
+<circle cx="1168.0" cy="1273.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1168.0" y="1322.0" text-anchor="middle" dominant-baseline="middle" class="label">Không tạo đơn</text>
+<text x="1168.0" y="1245.0" text-anchor="middle" dominant-baseline="middle" class="id">S_EmptyEnd</text>
+<rect x="1420" y="1230" width="300" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1570.0" y="1269.5" text-anchor="middle" dominant-baseline="middle" class="">Ghi log → rollback</text>
+<text x="1570.0" y="1290.5" text-anchor="middle" dominant-baseline="middle" class="">Báo lỗi → redirect checkout</text>
+<text x="1454" y="1242.0" text-anchor="middle" dominant-baseline="middle" class="id">S_Rollback</text>
+<circle cx="1818.0" cy="1278.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1818.0" y="1327.0" text-anchor="middle" dominant-baseline="middle" class="label">Kết thúc nhánh catch</text>
+<text x="1818.0" y="1250.0" text-anchor="middle" dominant-baseline="middle" class="id">S_ErrorEnd</text>
+<text x="924.0" y="181.0" text-anchor="middle" dominant-baseline="middle" class="label">Có</text>
+<text x="870" y="275.0" text-anchor="middle" dominant-baseline="middle" class="label">Không</text>
+<text x="359.0" y="541.0" text-anchor="middle" dominant-baseline="middle" class="label">Có</text>
+<text x="869.0" y="541.0" text-anchor="middle" dominant-baseline="middle" class="label">Có</text>
+<text x="330" y="665.0" text-anchor="middle" dominant-baseline="middle" class="label">Không</text>
+<text x="835" y="665.0" text-anchor="middle" dominant-baseline="middle" class="label">Không</text>
+<text x="624.0" y="1036.0" text-anchor="middle" dominant-baseline="middle" class="label">Có</text>
+<text x="1054.0" y="1036.0" text-anchor="middle" dominant-baseline="middle" class="label">Không</text>
+<text x="600" y="1160.0" text-anchor="middle" dominant-baseline="middle" class="label">Không</text>
+<text x="1020" y="1160.0" text-anchor="middle" dominant-baseline="middle" class="label">Có</text>
+<text x="1740" y="1185.0" text-anchor="middle" dominant-baseline="middle" class="label">Exception được catch</text>
+<text x="218.0" y="399.5" text-anchor="middle" dominant-baseline="middle" class="label">GET /checkout</text>
+<text x="1170.0" y="438.2" text-anchor="middle" dominant-baseline="middle" class="label">HTML checkout</text>
+<text x="611.4" y="281.0" text-anchor="middle" dominant-baseline="middle" class="label">POST /checkout (CSRF)</text>
+<text x="1640.0" y="784.7" text-anchor="middle" dominant-baseline="middle" class="label">Redirect /account</text>
+<text x="485.0" y="394.90000000000003" text-anchor="middle" dominant-baseline="middle" class="label">Redirect</text>
+<text x="535.0" y="332.5" text-anchor="middle" dominant-baseline="middle" class="label">Redirect</text>
+<text x="1495.0" y="928.0" text-anchor="middle" dominant-baseline="middle" class="label">Lỗi / redirect</text>
+<text x="1315.0" y="928.0" text-anchor="middle" dominant-baseline="middle" class="label">Lỗi / redirect</text>
+<text x="1315.0" y="814.4000000000001" text-anchor="middle" dominant-baseline="middle" class="label">Lỗi / redirect</text>
+</g>
+<g transform="translate(0,1510)">
+<text x="1120.0" y="35.0" text-anchor="middle" dominant-baseline="middle" class="title">Chi tiết S_Try — Thực thi khối try, theo đúng thứ tự code</text>
+<rect x="30" y="80" width="2180" height="300" rx="8" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+<polyline points="116,210.0 180,210.0" class="line"/>
+<polyline points="390,210.0 450,210.0" class="line"/>
+<polyline points="660,210.0 720,210.0" class="line"/>
+<polyline points="930,210.0 990,210.0" class="line"/>
+<polyline points="1200,210.0 1260,210.0" class="line"/>
+<polyline points="1470,210.0 1530,210.0" class="line"/>
+<polyline points="1740,210.0 2070,210.0" class="line"/>
+<circle cx="98.0" cy="210.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<text x="98.0" y="182.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Start</text>
+<rect x="180" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="285.0" y="189.0" text-anchor="middle" dominant-baseline="middle" class="">Tạo Order pending</text>
+<text x="285.0" y="210.0" text-anchor="middle" dominant-baseline="middle" class="">Tổng = Σ(lượng × giá)</text>
+<text x="285.0" y="231.0" text-anchor="middle" dominant-baseline="middle" class="">Không cộng phí ship</text>
+<text x="214" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Order</text>
+<rect x="450" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="555.0" y="199.5" text-anchor="middle" dominant-baseline="middle" class="">Duyệt từng dòng giỏ</text>
+<text x="555.0" y="220.5" text-anchor="middle" dominant-baseline="middle" class="">Xem panel T_Items</text>
+<text x="484" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Items</text>
+<rect x="548.0" y="241" width="14" height="14" rx="0" fill="white" stroke="#64748b" stroke-width="1.5"/>
+<text x="555.0" y="248.0" text-anchor="middle" dominant-baseline="middle" class="">+</text>
+<text x="580.0" y="248.0" text-anchor="middle" dominant-baseline="middle" class="">≡</text>
+<rect x="720" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="825.0" y="189.0" text-anchor="middle" dominant-baseline="middle" class="">Tạo Payment cash/pending</text>
+<text x="825.0" y="210.0" text-anchor="middle" dominant-baseline="middle" class="">amount = tổng Order</text>
+<text x="825.0" y="231.0" text-anchor="middle" dominant-baseline="middle" class="">paid_at = null</text>
+<text x="754" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Payment</text>
+<rect x="990" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1095.0" y="199.5" text-anchor="middle" dominant-baseline="middle" class="">Xóa toàn bộ giỏ</text>
+<text x="1095.0" y="220.5" text-anchor="middle" dominant-baseline="middle" class="">của user hiện tại</text>
+<text x="1024" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Delete</text>
+<rect x="1260" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1365.0" y="210.0" text-anchor="middle" dominant-baseline="middle" class="">Chốt transaction (commit)</text>
+<text x="1294" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Commit</text>
+<rect x="1530" y="160" width="210" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="1635.0" y="199.5" text-anchor="middle" dominant-baseline="middle" class="">Báo đặt thành công</text>
+<text x="1635.0" y="220.5" text-anchor="middle" dominant-baseline="middle" class="">Redirect /account</text>
+<text x="1564" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">T_Return</text>
+<circle cx="2088.0" cy="210.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="2088.0" y="182.0" text-anchor="middle" dominant-baseline="middle" class="id">T_End</text>
+</g>
+<g transform="translate(0,1910)">
+<text x="1120.0" y="35.0" text-anchor="middle" dominant-baseline="middle" class="title">Chi tiết T_Items — Foreach tuần tự: tạo dòng TRƯỚC kiểm tra tồn</text>
+<rect x="30" y="80" width="2180" height="360" rx="8" fill="#f8fafc" stroke="#64748b" stroke-width="1.5"/>
+<polyline points="136,210.0 230,210.0" class="line"/>
+<polyline points="480,210.0 620,210.0" class="line"/>
+<polyline points="668,210.0 830,210.0" class="line"/>
+<polyline points="1090,210.0 1220,210.0" class="line"/>
+<polyline points="644,234 644,345" class="line"/>
+<circle cx="118.0" cy="210.0" r="16.0" fill="white" stroke="#34465a" stroke-width="1.7"/>
+<text x="118.0" y="182.0" text-anchor="middle" dominant-baseline="middle" class="id">L_Start</text>
+<rect x="230" y="160" width="250" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="355.0" y="199.5" text-anchor="middle" dominant-baseline="middle" class="">Tạo OrderItem</text>
+<text x="355.0" y="220.5" text-anchor="middle" dominant-baseline="middle" class="">Lưu giá sản phẩm hiện tại</text>
+<text x="264" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">L_Create</text>
+<path d="M644.0 186L668 210.0L644.0 234L620 210.0Z" fill="#fff3ce" stroke="#a47922" stroke-width="1.5"/>
+<text x="644.0" y="210.0" text-anchor="middle" dominant-baseline="middle" class="">×</text>
+<text x="644.0" y="148.0" text-anchor="middle" dominant-baseline="middle" class="label">stock &lt; quantity?</text>
+<text x="644.0" y="176.0" text-anchor="middle" dominant-baseline="middle" class="id">L_Stock</text>
+<rect x="830" y="160" width="260" height="100" rx="10" fill="#edf4fc" stroke="#41688e" stroke-width="1.5"/>
+<text x="960.0" y="210.0" text-anchor="middle" dominant-baseline="middle" class="">Trừ stock theo quantity</text>
+<text x="864" y="172.0" text-anchor="middle" dominant-baseline="middle" class="id">L_Decrement</text>
+<circle cx="1238.0" cy="210.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="1238.0" y="259.0" text-anchor="middle" dominant-baseline="middle" class="label">Xong dòng hiện tại</text>
+<text x="1238.0" y="182.0" text-anchor="middle" dominant-baseline="middle" class="id">L_End</text>
+<circle cx="658.0" cy="363.0" r="16.0" fill="white" stroke="#34465a" stroke-width="3.6"/>
+<text x="658.0" y="363.0" text-anchor="middle" dominant-baseline="middle" class="">ϟ</text>
+<text x="658.0" y="412.0" text-anchor="middle" dominant-baseline="middle" class="label">Ném Exception thiếu tồn</text>
+<text x="658.0" y="335.0" text-anchor="middle" dominant-baseline="middle" class="id">L_Throw</text>
+<text x="749.0" y="193.0" text-anchor="middle" dominant-baseline="middle" class="label">Không: đủ tồn</text>
+<text x="755" y="300.0" text-anchor="middle" dominant-baseline="middle" class="label">Có: thiếu tồn</text>
+</g>
+<text x="1120.0" y="2388.0" text-anchor="middle" dominant-baseline="middle" class="label">AS-IS • Đối chiếu source Laravel/JS • +: subprocess, xem panel chi tiết bên dưới • Không phải quy trình thực thi</text>
+</svg>

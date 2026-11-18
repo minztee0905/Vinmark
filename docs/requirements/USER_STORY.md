@@ -6,7 +6,7 @@
 | Học kỳ / Năm học | 1 / 2025–2026 |
 | Phiên bản | 1.1 — Hoàn thiện đặc tả User Story |
 | Phạm vi | Khách vãng lai, khách hàng, nhân viên và quản trị viên |
-| Tài liệu liên quan | [BRD](BRD.md), [SRS](SRS.md), [Thông tin nhóm](../README.md) |
+| Tài liệu liên quan | [BRD](BRD.md), [SRS](SRS.md), [Thông tin nhóm](../../README.md) |
 
 ## 1. Mục đích và quy ước
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.uit.edu.vn/">
-  <img src="docs/images/logo-uit.png" alt="Logo Trường Đại học Công nghệ Thông tin – UIT" width="180">
+  <img src="docs/assets/logo-uit.png" alt="Logo Trường Đại học Công nghệ Thông tin – UIT" width="180">
 </a>
 
 **ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH**
@@ -82,10 +82,15 @@
 
 ## TÀI LIỆU DỰ ÁN
 
-- [BRD — Tài liệu yêu cầu nghiệp vụ](docs/BRD.md): mục tiêu, phạm vi, tác nhân, quy tắc nghiệp vụ và User Story.
-- [SRS — Đặc tả yêu cầu phần mềm](docs/SRS.md): yêu cầu chức năng, phi chức năng, dữ liệu, luồng sử dụng và tiêu chí nghiệm thu.
-- [Đặc tả Use Case — Vinmark](docs/USE_CASE.md): 27 đặc tả nghiệp vụ quan trọng theo sơ đồ use case và ERD, kèm luồng chính, ngoại lệ và quy tắc nghiệp vụ.
-- [User Story — Vinmark](docs/USER_STORY.md): 24 câu chuyện người dùng cho khách hàng, nhân viên và quản trị viên, kèm tiêu chí chấp nhận.
+Xem [mục lục toàn bộ tài liệu](docs/README.md) để tra cứu theo nhóm.
+
+- [BRD — Tài liệu yêu cầu nghiệp vụ](docs/requirements/BRD.md): mục tiêu, phạm vi, tác nhân, quy tắc nghiệp vụ và User Story.
+- [SRS — Đặc tả yêu cầu phần mềm](docs/requirements/SRS.md): yêu cầu chức năng, phi chức năng, dữ liệu, luồng sử dụng và tiêu chí nghiệm thu.
+- [Đặc tả Use Case — Vinmark](docs/requirements/USE_CASE.md): 27 đặc tả nghiệp vụ quan trọng theo sơ đồ use case và ERD, kèm luồng chính, ngoại lệ và quy tắc nghiệp vụ.
+- [BPMN — Đặt hàng và thanh toán](docs/diagrams/bpmn/README.md): ba sơ đồ As-Is cho COD, PayPal và MoMo, kèm bản SVG.
+- [Order State Diagram — As-Is](docs/diagrams/state/README.md): trạng thái đơn và các chuyển trạng thái thực có trong code, kèm bản SVG.
+- [Sequence Diagram — As-Is](docs/diagrams/sequence/README.md): ba sơ đồ tương tác COD, PayPal và MoMo, kèm bản SVG.
+- [User Story — Vinmark](docs/requirements/USER_STORY.md): 24 câu chuyện người dùng cho khách hàng, nhân viên và quản trị viên, kèm tiêu chí chấp nhận.
 
 ## HƯỚNG DẪN SỬ DỤNG SẢN PHẨM
 

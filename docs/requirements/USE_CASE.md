@@ -7,6 +7,7 @@
 | Ngày biên soạn | 17/11/2026 |
 | Đầu vào | Bốn sơ đồ use case, hai sơ đồ ERD do nhóm cung cấp; BRD, SRS và mã nguồn dự án |
 | Tài liệu liên quan | [BRD](BRD.md), [SRS](SRS.md), [User Story](USER_STORY.md) |
+| Sơ đồ quy trình | [BPMN đặt hàng và thanh toán](../diagrams/bpmn/README.md) — bộ As-Is theo mã nguồn; đối chiếu riêng với luồng mục tiêu trong đặc tả |
 | Phạm vi | 27 đặc tả cho nghiệp vụ mua hàng, tài khoản, vận hành và hỗ trợ quan trọng |
 
 ## Mục lục
@@ -1118,52 +1119,52 @@ Sáu ảnh dưới đây là bản sao nguyên trạng từ tệp người dùng
 
 | Mã nguồn | Tệp trong tài liệu | Phạm vi |
 | --- | --- | --- |
-| AD | [US_Ad.drawio.png](images/usecase/US_Ad.drawio.png) | Quản trị và nhân viên. |
-| CUS1 | [US_cus1.drawio.png](images/usecase/US_cus1.drawio.png) | Khách vãng lai. |
-| CUS2 | [US_cus2.drawio.png](images/usecase/US_cus2.drawio.png) | Khách hàng: sản phẩm, giỏ, địa chỉ, hồ sơ, yêu thích và đánh giá. |
-| CUS3 | [US_cus3.drawio.png](images/usecase/US_cus3.drawio.png) | Khách hàng: đặt hàng, đơn hàng và hỗ trợ. |
-| ERD-01 | [erd.png](images/usecase/erd.png) | Mô hình dữ liệu tổng thể. |
-| ERD-02 | [erd_order_payment.png](images/usecase/erd_order_payment.png) | Mô hình dữ liệu đơn hàng và thanh toán. |
+| AD | [use_case_admin_staff.png](../diagrams/use-case/use_case_admin_staff.png) | Quản trị và nhân viên. |
+| CUS1 | [use_case_guest.png](../diagrams/use-case/use_case_guest.png) | Khách vãng lai. |
+| CUS2 | [use_case_customer_account.png](../diagrams/use-case/use_case_customer_account.png) | Khách hàng: sản phẩm, giỏ, địa chỉ, hồ sơ, yêu thích và đánh giá. |
+| CUS3 | [use_case_customer_order.png](../diagrams/use-case/use_case_customer_order.png) | Khách hàng: đặt hàng, đơn hàng và hỗ trợ. |
+| ERD-01 | [erd.png](../diagrams/erd/erd.png) | Mô hình dữ liệu tổng thể. |
+| ERD-02 | [erd_order_payment.png](../diagrams/erd/erd_order_payment.png) | Mô hình dữ liệu đơn hàng và thanh toán. |
 
 <details>
 <summary>Xem sơ đồ quản trị — AD</summary>
 
-![Use case quản trị Vinmark](images/usecase/US_Ad.drawio.png)
+![Use case quản trị Vinmark](../diagrams/use-case/use_case_admin_staff.png)
 
 </details>
 
 <details>
 <summary>Xem sơ đồ khách vãng lai — CUS1</summary>
 
-![Use case khách vãng lai Vinmark](images/usecase/US_cus1.drawio.png)
+![Use case khách vãng lai Vinmark](../diagrams/use-case/use_case_guest.png)
 
 </details>
 
 <details>
 <summary>Xem sơ đồ khách hàng — CUS2</summary>
 
-![Use case sản phẩm, giỏ và tài khoản khách hàng Vinmark](images/usecase/US_cus2.drawio.png)
+![Use case sản phẩm, giỏ và tài khoản khách hàng Vinmark](../diagrams/use-case/use_case_customer_account.png)
 
 </details>
 
 <details>
 <summary>Xem sơ đồ đặt hàng và hỗ trợ — CUS3</summary>
 
-![Use case đặt hàng và hỗ trợ Vinmark](images/usecase/US_cus3.drawio.png)
+![Use case đặt hàng và hỗ trợ Vinmark](../diagrams/use-case/use_case_customer_order.png)
 
 </details>
 
 <details>
 <summary>Xem ERD tổng thể — ERD-01</summary>
 
-![ERD tổng thể Vinmark](images/usecase/erd.png)
+![ERD tổng thể Vinmark](../diagrams/erd/erd.png)
 
 </details>
 
 <details>
 <summary>Xem ERD đơn hàng và thanh toán — ERD-02</summary>
 
-![ERD đơn hàng và thanh toán Vinmark](images/usecase/erd_order_payment.png)
+![ERD đơn hàng và thanh toán Vinmark](../diagrams/erd/erd_order_payment.png)
 
 </details>
 
@@ -1172,12 +1173,12 @@ Sáu ảnh dưới đây là bản sao nguyên trạng từ tệp người dùng
 - [SRS](SRS.md): yêu cầu FR, luồng tóm tắt, quy tắc dữ liệu, kịch bản AT và chênh lệch GAP.
 - [BRD](BRD.md): mục tiêu, phạm vi, quy tắc nghiệp vụ và các quyết định TBD.
 - [User Story](USER_STORY.md): nhu cầu người dùng và tiêu chí chấp nhận liên quan.
-- [routes/web.php](../routes/web.php), [routes/admin.php](../routes/admin.php): thao tác và nhóm bảo vệ truy cập.
-- [Controllers/Clients](../app/Http/Controllers/Clients), [Controllers/Admin](../app/Http/Controllers/Admin): hành vi hiện tại.
-- [Listeners](../app/Listeners): hợp nhất giỏ và lịch sử chat.
-- [Models](../app/Models), [Migrations](../database/migrations): quan hệ, tên trường, khóa và trạng thái hiện có.
-- [RolePermissionTableSeeder](../database/seeders/RolePermissionTableSeeder.php): permission theo vai trò mặc định.
-- [config/auth.php](../config/auth.php): guard và cấu hình khôi phục mật khẩu.
+- [routes/web.php](../../routes/web.php), [routes/admin.php](../../routes/admin.php): thao tác và nhóm bảo vệ truy cập.
+- [Controllers/Clients](../../app/Http/Controllers/Clients), [Controllers/Admin](../../app/Http/Controllers/Admin): hành vi hiện tại.
+- [Listeners](../../app/Listeners): hợp nhất giỏ và lịch sử chat.
+- [Models](../../app/Models), [Migrations](../../database/migrations): quan hệ, tên trường, khóa và trạng thái hiện có.
+- [RolePermissionTableSeeder](../../database/seeders/RolePermissionTableSeeder.php): permission theo vai trò mặc định.
+- [config/auth.php](../../config/auth.php): guard và cấu hình khôi phục mật khẩu.
 
 ### 8.3. Lịch sử và cập nhật tài liệu
 

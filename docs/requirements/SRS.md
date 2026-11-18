@@ -335,7 +335,7 @@ Tỷ giá và quy tắc làm tròn cho PayPal cần BRD-TBD-02. Không dùng gi�
 | Quản trị | `/admin/login`, `/admin/dashboard`, `/admin/profile` | Đăng nhập, chỉ số và hồ sơ quản trị. |
 | Quản lý dữ liệu | `/admin/products`, `/admin/categories`, `/admin/users`, `/admin/orders`, `/admin/contacts`, `/admin/notifications` | Bảng dữ liệu, form/thao tác theo quyền, trạng thái và thông báo kết quả. |
 
-Danh sách route đầy đủ là [routes/web.php](../routes/web.php) và [routes/admin.php](../routes/admin.php). Route là giao diện nội bộ của web Blade/AJAX, không phải cam kết API công khai có phiên bản.
+Danh sách route đầy đủ là [routes/web.php](../../routes/web.php) và [routes/admin.php](../../routes/admin.php). Route là giao diện nội bộ của web Blade/AJAX, không phải cam kết API công khai có phiên bản.
 
 ### 7.2. Quy ước phản hồi
 
@@ -462,15 +462,15 @@ Các GAP ảnh hưởng tiền, tồn kho và quyền sở hữu cần ưu tiên
 ### 12.1. Nguồn đối chiếu
 
 - [BRD](BRD.md): mục tiêu, phạm vi, quy tắc và quyết định cần chốt.
-- [routes/web.php](../routes/web.php), [routes/admin.php](../routes/admin.php): endpoint và nhóm middleware.
-- [Controllers/Clients](../app/Http/Controllers/Clients), [Controllers/Admin](../app/Http/Controllers/Admin): hành vi xử lý nêu trong FR và GAP.
-- [Listeners](../app/Listeners): hợp nhất giỏ và lịch sử chat khi đăng nhập.
-- [config/auth.php](../config/auth.php), [CheckPermission](../app/Http/Middleware/CheckPermission.php), [RedirectIfNotAuthenticated](../app/Http/Middleware/RedirectIfNotAuthenticated.php): guard, cấu hình reset và kiểm tra quyền.
-- [RolePermissionTableSeeder](../database/seeders/RolePermissionTableSeeder.php), [PermissionsTableSeeder](../database/seeders/PermissionsTableSeeder.php): ma trận quyền mặc định.
-- [database/migrations](../database/migrations), [app/Models](../app/Models): trường dữ liệu, quan hệ và ràng buộc.
-- [resources/views](../resources/views), [public/assets/clients/js/custom.js](../public/assets/clients/js/custom.js): form, hiển thị và tương tác phía khách.
-- [composer.json](../composer.json), [package.json](../package.json): công nghệ và ràng buộc thư viện.
-- [tests](../tests): hiện trạng kiểm thử; chưa phải bằng chứng nghiệm thu các FR.
+- [routes/web.php](../../routes/web.php), [routes/admin.php](../../routes/admin.php): endpoint và nhóm middleware.
+- [Controllers/Clients](../../app/Http/Controllers/Clients), [Controllers/Admin](../../app/Http/Controllers/Admin): hành vi xử lý nêu trong FR và GAP.
+- [Listeners](../../app/Listeners): hợp nhất giỏ và lịch sử chat khi đăng nhập.
+- [config/auth.php](../../config/auth.php), [CheckPermission](../../app/Http/Middleware/CheckPermission.php), [RedirectIfNotAuthenticated](../../app/Http/Middleware/RedirectIfNotAuthenticated.php): guard, cấu hình reset và kiểm tra quyền.
+- [RolePermissionTableSeeder](../../database/seeders/RolePermissionTableSeeder.php), [PermissionsTableSeeder](../../database/seeders/PermissionsTableSeeder.php): ma trận quyền mặc định.
+- [database/migrations](../../database/migrations), [app/Models](../../app/Models): trường dữ liệu, quan hệ và ràng buộc.
+- [resources/views](../../resources/views), [public/assets/clients/js/custom.js](../../public/assets/clients/js/custom.js): form, hiển thị và tương tác phía khách.
+- [composer.json](../../composer.json), [package.json](../../package.json): công nghệ và ràng buộc thư viện.
+- [tests](../../tests): hiện trạng kiểm thử; chưa phải bằng chứng nghiệm thu các FR.
 
 ### 12.2. Quản lý thay đổi và xác nhận
 

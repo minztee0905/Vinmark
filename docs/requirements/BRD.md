@@ -12,7 +12,7 @@
 | Phiên bản tài liệu | 1.0 — Bản dự thảo để nhóm rà soát |
 | Ngày biên soạn | 17/11/2026 |
 | Cơ sở xây dựng | Source code Vinmark và thông tin đồ án do nhóm cung cấp |
-| Tài liệu liên quan | [SRS](SRS.md), [README](../README.md), [Hướng dẫn sử dụng](../HUONG_DAN_SU_DUNG.md) |
+| Tài liệu liên quan | [SRS](SRS.md), [README](../../README.md), [Hướng dẫn sử dụng](../../HUONG_DAN_SU_DUNG.md) |
 
 ### Nhóm thực hiện
 
@@ -262,10 +262,10 @@ Các quyết định cần được nhóm ghi nhận vào phiên bản tiếp th
 
 ## 12. Căn cứ đối chiếu source code
 
-- Phạm vi endpoint: [routes/web.php](../routes/web.php), [routes/admin.php](../routes/admin.php).
-- Khách hàng: [Controllers/Clients](../app/Http/Controllers/Clients).
-- Vận hành: [Controllers/Admin](../app/Http/Controllers/Admin).
-- Phân quyền: [PermissionsTableSeeder](../database/seeders/PermissionsTableSeeder.php), [RolePermissionTableSeeder](../database/seeders/RolePermissionTableSeeder.php), [CheckPermission](../app/Http/Middleware/CheckPermission.php).
-- Cấu trúc dữ liệu: [database/migrations](../database/migrations), [app/Models](../app/Models).
-- Giao diện nghiệp vụ: [resources/views/clients/pages](../resources/views/clients/pages), [resources/views/admin/pages](../resources/views/admin/pages).
+- Phạm vi endpoint: [routes/web.php](../../routes/web.php), [routes/admin.php](../../routes/admin.php).
+- Khách hàng: [Controllers/Clients](../../app/Http/Controllers/Clients).
+- Vận hành: [Controllers/Admin](../../app/Http/Controllers/Admin).
+- Phân quyền: [PermissionsTableSeeder](../../database/seeders/PermissionsTableSeeder.php), [RolePermissionTableSeeder](../../database/seeders/RolePermissionTableSeeder.php), [CheckPermission](../../app/Http/Middleware/CheckPermission.php).
+- Cấu trúc dữ liệu: [database/migrations](../../database/migrations), [app/Models](../../app/Models).
+- Giao diện nghiệp vụ: [resources/views/clients/pages](../../resources/views/clients/pages), [resources/views/admin/pages](../../resources/views/admin/pages).
 - Chi tiết yêu cầu và chênh lệch triển khai: [SRS](SRS.md).
